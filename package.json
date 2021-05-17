@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryaj92/jenkins-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryaj92/jenkins-repo/issues"
+  },
+  "homepage": "https://github.com/suryaj92/jenkins-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
